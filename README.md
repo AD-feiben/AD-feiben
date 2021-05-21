@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AD-feiben/AD-feiben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋, I'm feiben is a front-end developer!
+
+| 博客<br>Blog | 公众号<br>WeChat official account | 微信<br>Wechat | 机器人，加群<br>WeChat robot、Join the WeChat group |
+| :--: | :--: | :--: | :--: |
+| [https://www.fedevelop.cn/](https://www.fedevelop.cn/) | <a href="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/qrcode_for_gh_6c8243f94d03_258.jpg"><img alt="前端develop" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/qrcode_for_gh_6c8243f94d03_258.jpg" width="160"> <br> 前端develop</a> | <a href="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3501.JPG"><img alt="前端develop" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3501.JPG" width="160"> <br> 前端develop</a> | <a href="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3500.JPG"><img alt="前端develop~助理" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3500.JPG" width="160"> <br> 前端develop~助理</a> |
+
+> 若图片加载失败，可点击对应区域打开
+
+
+## 个人项目 Personal projects
+
+### 轻量图表库 lw-chart: 
+
+  Document & Demo: https://www.fedevelop.cn/lw-chart-docs/docs/demo/
+
+  <a href="https://github.com/AD-feiben/lw-chart" target="__blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ad-feiben&repo=lw-chart" />
+  </a>
+
+### 优惠券 & 外卖红包
+  
+  Live: https://coupons.fedevelop.cn/
+
+### 小程序：i外卖券
+  
+  <img alt="小程序：i外卖券" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_1995.JPG" width="160">
+
+<br>
+
+<a href="https://github.com/AD-feiben">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ad-feiben&show_icons=true&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-feiben&layout=compact" />
+</a>
+
