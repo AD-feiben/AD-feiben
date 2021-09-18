@@ -26,15 +26,12 @@ Here are some ideas to get you started:
 
 ### 轻量图表库 lw-chart: 
 
-  Document & Demo: https://www.fedevelop.cn/lw-chart-docs/docs/demo/
+  Document & Demo: https://ad-feiben.github.io/lw-chart-docs/docs/demo/
 
   <a href="https://github.com/AD-feiben/lw-chart" target="__blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ad-feiben&repo=lw-chart" />
   </a>
 
-### 优惠券 & 外卖红包
-  
-  Live: https://coupons.fedevelop.cn/
 
 ### 小程序：i外卖券
   
