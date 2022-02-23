@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## Hi there 👋, I'm feiben is a front-end developer!
 
-| 博客<br>Blog | 公众号<br>WeChat official account | 微信<br>Wechat | 机器人，加群<br>WeChat robot、Join the WeChat group |
-| :--: | :--: | :--: | :--: |
-| [https://www.fedevelop.cn/](https://www.fedevelop.cn/) | <a href="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/qrcode_for_gh_6c8243f94d03_258.jpg"><img alt="前端develop" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/qrcode_for_gh_6c8243f94d03_258.jpg" width="160"> <br> 前端develop</a> | <a href="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3501.JPG"><img alt="前端develop" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3501.JPG" width="160"> <br> 前端develop</a> | <a href="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3500.JPG"><img alt="前端develop~助理" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3500.JPG" width="160"> <br> 前端develop~助理</a> |
+| 博客<br>Blog | 公众号<br>WeChat official account | 微信<br>Wechat |
+| :--: | :--: | :--: |
+| [https://www.fedevelop.cn/](https://www.fedevelop.cn/) | <a href="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/qrcode_for_gh_6c8243f94d03_258.jpg"><img alt="前端develop" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/qrcode_for_gh_6c8243f94d03_258.jpg" width="160"> <br> 前端develop</a> | <a href="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3501.JPG"><img alt="前端develop" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_3501.JPG" width="160"> <br> 前端develop</a> |
 
 > 若图片加载失败，可点击对应区域打开
 
@@ -33,11 +33,9 @@ Here are some ideas to get you started:
   </a>
 
 
-### 小程序：i外卖券
-  
-  <img alt="小程序：i外卖券" src="https://feiben-1253434158.cos.ap-guangzhou.myqcloud.com/PicGo/IMG_1995.JPG" width="160">
-
 <br>
+<br>
+
 
 <a href="https://github.com/AD-feiben">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ad-feiben&show_icons=true&hide_title=true"/>
