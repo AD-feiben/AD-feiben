@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋, I'm feiben is a front-end developer!
+## Hi there 👋, I'm feiben, a front-end development engineer!
 
 | 博客<br>Blog | 公众号<br>WeChat official account | 微信<br>Wechat |
 | :--: | :--: | :--: |
